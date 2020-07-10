@@ -53,9 +53,9 @@ function github_plugin_updater_test_init() {
 			'zip_url' => 'https://github.com/rahulwebmyne/Latestplugin/archive/master.zip',
 			'sslverify' => false,
 			'requires' => '3.8.2',
-			'tested' => '5.4',
+			'tested' => '5.4.1',
 			'readme' => 'README.md',
-			'access_token' => 'fbef8000503ddcff39404c3279a2ee3024d469cb',
+			'access_token' => '4467ede0568c2da1bce281ef0838fbfc73bd9442',
 		);
 		
 		//cho "<pre>";print_r($config);exit;
